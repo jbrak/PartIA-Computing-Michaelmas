@@ -90,3 +90,8 @@ ENV/
 
 .xml
 .iml
+/.idea/vcs.xml
+/.idea/PartIA-Computing-Michaelmas.iml
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/.gitignore
