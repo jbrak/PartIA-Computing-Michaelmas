@@ -95,3 +95,4 @@ ENV/
 /.idea/modules.xml
 /.idea/misc.xml
 /.idea/.gitignore
+/venv
